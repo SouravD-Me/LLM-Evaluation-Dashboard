@@ -7,7 +7,7 @@
     <a href="https://github.com/Sourav-Das1996/llm_evaluation_dashboard/stargazers"> <img src="https://img.shields.io/github/stars/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Stars"> </a> <a href="https://github.com/Sourav-Das1996/llm_evaluation_dashboard/network/members"> <img src="https://img.shields.io/github/forks/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Forks"> </a> </p> 
 <p align="center"> <a href="#key-features">Key Features</a> • <a href="#demo">Demo</a> • <a href="#installation">Installation</a> • <a href="#usage">Usage</a> • <a href="#contributing">Contributing</a> • <a href="#license">License</a> </p>
 
-## Key Features ✨
+## 🟡 Key Features: ✨
 
     🏃‍♂️ Multi-process benchmarking for faster evaluation of multiple models,
     📊 Interactive visualizations for model performance metrics like generation time, token length, etc.,
@@ -16,26 +16,26 @@
     🎨 Polished UI with a dark-themed Bootstrap style,
     🌐 Cross-platform compatibility with Dash.
 
-## Demo 🎥
+## 🟡 Demo: 🎥
 <p align="center"> <img src="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard/blob/main/LLM%20Evaluation%20-%20MiniDemo.gif" alt="Demo GIF"> </p>
 
-## Installation 🚀
+## 🟡 Installation: 🚀
 
-### Clone the repository:
+### 🔶 Clone the repository:
 
 git clone https://github.com/Sourav-Das1996/llm_evaluation_dashboard.git
 
-### Change to the project directory:
+### 🔶 Change to the project directory:
 
 cd llm_evaluation_dashboard
 
-### Install the required packages:
+### 🔶 Install the required packages:
 
 pip install -r requirements.txt
 
-## Usage 🕹️
+## 🟡 Usage: 🕹️
 
-### Run the application:
+### 🔶 Run the application:
 
 python app.py (LLM Evaluation - Main.ipynb)
 
@@ -44,7 +44,7 @@ python app.py (LLM Evaluation - Main.ipynb)
     Explore the various visualizations to analyze the performance of the selected models.
     Download the benchmark results as a CSV file for further analysis.
 
-## Contributing 🤝
+## 🟡 Contributing: 🤝
 
 ### I welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
@@ -54,7 +54,7 @@ python app.py (LLM Evaluation - Main.ipynb)
     Push your changes to your branch: git push origin my-new-feature.
     Submit a pull request.
 
-## License ⚖️
+## 🟡 License: ⚖️
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
