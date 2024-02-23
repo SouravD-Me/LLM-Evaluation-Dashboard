@@ -29,22 +29,27 @@ git clone https://github.com/Sourav-Das1996/llm_evaluation_dashboard.git
 
 ### 🔶 Change to the project directory:
 
+```bash
 cd llm_evaluation_dashboard
+```
 
 ### 🔶 Install the required packages:
 
+```bash
 pip install -r requirements.txt
+```
 
 ## 🟡 Usage: 🕹️
 
 ### 🔶 Run the application:
 
+```bash
 python app.py (LLM Evaluation - Main.ipynb)
+```
 
     1. Open your web browser and navigate to http://localhost:8050/ to access the dashboard.
     2. Customize the models, datasets, and token length range using the interactive controls.
     3. Explore the various visualizations to analyze the performance of the selected models.
-    4. Download the benchmark results as a CSV file for further analysis.
 
 ## 🟡 Contributing: 🤝
 
