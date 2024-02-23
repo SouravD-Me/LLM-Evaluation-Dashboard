@@ -94,7 +94,7 @@ python app.py (LLM Evaluation - Main.ipynb)
 ## 🟡 Contributing: 🤝
 <a name="contributing"></a>
 
-### I welcome contributions and further modifications of the project from the community! If you'd like to contribute, please follow these steps:
+#### I welcome contributions and further modifications of the project from the community! If you'd like to contribute, please follow these steps:
 
     1. Fork the repository.
     2. Create a new branch for your feature or bug fix: git checkout -b my-new-feature.
