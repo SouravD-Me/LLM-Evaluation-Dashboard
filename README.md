@@ -10,7 +10,19 @@
     <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard"><img src="https://img.shields.io/github/forks/SouravD-Me/LLM-Evaluation-Dashboard.svg" alt="Forks"></a>
 </p>
 
+<p align="center">
+    <a href="#key-features">Key Features</a> •
+    <a href="#corpora">Corpora</a> •
+    <a href="#limitations">Limitations</a> •
+    <a href="#demo">Demo</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#usage">Usage</a> •
+    <a href="#contributing">Contributing</a> •
+    <a href="#license">License</a>
+</p>
+
 ## 🟡 Key Features: ✨
+<a name="key-features"></a>
 
     🏃‍♂️ Multi-process benchmarking for faster evaluation of multiple models,
     📊 Interactive visualizations for model performance metrics,
@@ -19,15 +31,17 @@
         🔍 Token length,
         🔍 Proportionality between token and generation,
         🔍 Runtime complexity of each model,
-    🌈 Customizable selection of models, datasets, and token length range,
+    🧮 Customizable selection of models, datasets, and token length range,
     🎨 Polished UI with a dark-themed Bootstrap style,
     🌐 Cross-platform compatibility with Dash.
 
-## Corpora: 📑 
+## Corpora: 📑
+<a name="corpora"></a>
 
 The evaluation is done on GLUE benchmark datasets: 𝗚𝗟𝗨𝗘, 𝗦𝗦𝗧𝟮, and 𝗬𝗲𝗹𝗽 𝗣𝗼𝗹𝗮𝗿𝗶𝘁𝘆.
 
 ## 🟡 Limitations: ❗
+<a name="limitations"></a>
 
 🔶 Why haven't I used more recent SoTA models like Llama-2, Mistral, MPT, Phi-2, XGLM, and others?
 
@@ -40,9 +54,12 @@ The evaluation is done on GLUE benchmark datasets: 𝗚𝗟𝗨𝗘, 𝗦𝗦�
 </p>
 
 ## 🟡 Demo: 🎥
+<a name="demo"></a>
+
 <p align="center"> <img src="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard/blob/main/LLM%20Evaluation%20-%20MiniDemo.gif" alt="Demo GIF"> </p>
 
 ## 🟡 Installation: 🚀
+<a name="installation"></a>
 
 ### 🔶 Clone the repository:
 
@@ -63,6 +80,7 @@ pip install -r requirements.txt
 ```
 
 ## 🟡 Usage: 🕹️
+<a name="usage"></a>
 
 ### 🔶 Run the application:
 
@@ -74,6 +92,7 @@ python app.py (LLM Evaluation - Main.ipynb)
     3. Explore the various visualizations to analyze the performance of the selected models.
 
 ## 🟡 Contributing: 🤝
+<a name="contributing"></a>
 
 ### I welcome contributions and further modifications of the project from the community! If you'd like to contribute, please follow these steps:
 
@@ -84,6 +103,7 @@ python app.py (LLM Evaluation - Main.ipynb)
     5. Submit a pull request.
 
 ## 🟡 License: ⚖️
+<a name="license"></a>
 
 ---
 
