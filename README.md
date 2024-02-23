@@ -10,11 +10,19 @@
 ## 🟡 Key Features: ✨
 
     🏃‍♂️ Multi-process benchmarking for faster evaluation of multiple models,
-    📊 Interactive visualizations for model performance metrics like generation time, token length, etc.,
+    📊 Interactive visualizations for model performance metrics,
     🔢 Numerical summary statistics for each model,
+        🔍 Average generation time,
+        🔍 Token length,
+        🔍 Proportionality between token and generation,
+        🔍 Runtime complexity of each model,
     🌈 Customizable selection of models, datasets, and token length range,
     🎨 Polished UI with a dark-themed Bootstrap style,
     🌐 Cross-platform compatibility with Dash.
+
+## Corpora: 📑 
+
+The evaluation is done on GLUE benchmark datasets: 𝗚𝗟𝗨𝗘, 𝗦𝗦𝗧𝟮, and 𝗬𝗲𝗹𝗽 𝗣𝗼𝗹𝗮𝗿𝗶𝘁𝘆.
 
 ## 🟡 Limitations: ❗
 
@@ -58,7 +66,6 @@ pip install -r requirements.txt
 ```bash
 python app.py (LLM Evaluation - Main.ipynb)
 ```
-
     1. Open your web browser and navigate to http://localhost:8050/ to access the dashboard.
     2. Customize the models, datasets, and token length range using the interactive controls.
     3. Explore the various visualizations to analyze the performance of the selected models.
@@ -76,5 +83,7 @@ python app.py (LLM Evaluation - Main.ipynb)
 ## 🟡 License: ⚖️
 
 <p align="center"> This project is licensed under MIT. See the LICENSE file for more details. <\p>
+
+<br>
 
 ### <p align="center"> Made with 🙏🏻 by Sourav Das • 2024 <\p>
