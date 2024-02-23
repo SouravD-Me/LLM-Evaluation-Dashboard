@@ -23,7 +23,9 @@
 
 ### 🔶 Clone the repository:
 
+```bash
 git clone https://github.com/Sourav-Das1996/llm_evaluation_dashboard.git
+```
 
 ### 🔶 Change to the project directory:
 
@@ -39,20 +41,20 @@ pip install -r requirements.txt
 
 python app.py (LLM Evaluation - Main.ipynb)
 
-    Open your web browser and navigate to http://localhost:8050/ to access the dashboard.
-    Customize the models, datasets, and token length range using the interactive controls.
-    Explore the various visualizations to analyze the performance of the selected models.
-    Download the benchmark results as a CSV file for further analysis.
+    1. Open your web browser and navigate to http://localhost:8050/ to access the dashboard.
+    2. Customize the models, datasets, and token length range using the interactive controls.
+    3. Explore the various visualizations to analyze the performance of the selected models.
+    4. Download the benchmark results as a CSV file for further analysis.
 
 ## 🟡 Contributing: 🤝
 
 ### I welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
-    Fork the repository.
-    Create a new branch for your feature or bug fix: git checkout -b my-new-feature.
-    Make your changes and commit them: git commit -am 'Add new feature'.
-    Push your changes to your branch: git push origin my-new-feature.
-    Submit a pull request.
+    1. Fork the repository.
+    2. Create a new branch for your feature or bug fix: git checkout -b my-new-feature.
+    3. Make your changes and commit them: git commit -am 'Add new feature'.
+    4. Push your changes to your branch: git push origin my-new-feature.
+    5. Submit a pull request.
 
 ## 🟡 License: ⚖️
 
