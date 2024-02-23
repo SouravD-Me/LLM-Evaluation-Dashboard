@@ -82,10 +82,10 @@ python app.py (LLM Evaluation - Main.ipynb)
 
 ## 🟡 License: ⚖️
 
-<br>
+---
 
 <p align="center"> This project is licensed under MIT. See the LICENSE file for more details. </p>
 
-<br>
+---
 
-### <p align="center"> Made with 🙏🏻 by Sourav Das • 2024 </p>
+#### <p align="center"> Made with 🙏🏻 by Sourav Das • 2024 </p>
