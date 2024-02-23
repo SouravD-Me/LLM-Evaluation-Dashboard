@@ -4,9 +4,16 @@
 <p align="center"> <em>🌟 An interactive dashboard for benchmarking and visualizing the performance of large language models across several datasets. 🌟</em> </p>
 
 <p align="center"> <a href="https://github.com/Sourav-Das1996/llm_evaluation_dashboard/blob/main/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"> </a> 
-    <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard"> <img src="https://img.shields.io/github/issues-pr/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Pull Requests"> </a> 
-    <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard"> <img src="https://img.shields.io/github/stars/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Stars"> </a> 
-    <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard"> <img src="https://img.shields.io/github/forks/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Forks"> </a> </p> 
+    <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard">
+    <img src="https://img.shields.io/github/issues-pr/SouravD-Me/LLM-Evaluation-Dashboard.svg" alt="Pull Requests">
+</a> 
+<a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard">
+    <img src="https://img.shields.io/github/stars/SouravD-Me/LLM-Evaluation-Dashboard.svg" alt="Stars">
+</a> 
+<a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard">
+    <img src="https://img.shields.io/github/forks/SouravD-Me/LLM-Evaluation-Dashboard.svg" alt="Forks">
+</a>
+</p> 
 
 ## 🟡 Key Features: ✨
 
