@@ -9,12 +9,53 @@
 
 ## Key Features ✨
 
-    🏃‍♂️ Multi-process benchmarking for faster evaluation of multiple models
-    📊 Interactive visualizations for model performance metrics like generation time, token length, etc.
-    🔢 Numerical summary statistics for each model
-    🌈 Customizable selection of models, datasets, and token length range
-    🎨 Polished UI with a dark-themed Bootstrap style
-    🌐 Cross-platform compatibility with Dash
+    🏃‍♂️ Multi-process benchmarking for faster evaluation of multiple models,
+    📊 Interactive visualizations for model performance metrics like generation time, token length, etc.,
+    🔢 Numerical summary statistics for each model,
+    🌈 Customizable selection of models, datasets, and token length range,
+    🎨 Polished UI with a dark-themed Bootstrap style,
+    🌐 Cross-platform compatibility with Dash.
 
-Demo 🎥
+## Demo 🎥
 <p align="center"> <img src="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard/blob/main/LLM%20Evaluation%20-%20MiniDemo.gif" alt="Demo GIF"> </p>
+
+## Installation 🚀
+
+### Clone the repository:
+
+git clone https://github.com/Sourav-Das1996/llm_evaluation_dashboard.git
+
+### Change to the project directory:
+
+cd llm_evaluation_dashboard
+
+### Install the required packages:
+
+pip install -r requirements.txt
+
+## Usage 🕹️
+
+### Run the application:
+
+python app.py (LLM Evaluation - Main.ipynb)
+
+    Open your web browser and navigate to http://localhost:8050/ to access the dashboard.
+    Customize the models, datasets, and token length range using the interactive controls.
+    Explore the various visualizations to analyze the performance of the selected models.
+    Download the benchmark results as a CSV file for further analysis.
+
+## Contributing 🤝
+
+### I welcome contributions from the community! If you'd like to contribute, please follow these steps:
+
+    Fork the repository.
+    Create a new branch for your feature or bug fix: git checkout -b my-new-feature.
+    Make your changes and commit them: git commit -am 'Add new feature'.
+    Push your changes to your branch: git push origin my-new-feature.
+    Submit a pull request.
+
+## License ⚖️
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Made with 🙏🏻 by Sourav Das
