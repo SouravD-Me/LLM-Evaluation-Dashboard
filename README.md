@@ -46,7 +46,7 @@ The evaluation is done on GLUE benchmark datasets: 𝗚𝗟𝗨𝗘, 𝗦𝗦�
 🔶 Why haven't I used more recent SoTA models like Llama-2, Mistral, MPT, Phi-2, XGLM, and others?
 
 <p align="justify">
-<b>1.</b> The entire dashboard is developed and run from my laptop (i7 12th Gen + 24 GB RAM + NVIDIA RTX 3060 - 6GB GDDR6) using VS Code (with NVIDIA Nsight CUDA development framework integrated). Choosing such SoTA models would crash the VSCode in my native machine. I tried to fine-tune the lower parameter versions above-mentioned models for deployment, but they were too much for my machine to handle. Also, Google Colab (or Pro and Pro+) does not allow users to open another tab or browser to display any interactive window from the current notebook session. There are workarounds with third-party authenticators like ngrock, but that did not work for my project.
+<b>1.</b> The entire dashboard is developed and run from my laptop (i7 12th Gen + 24 GB RAM + RTX 3060 - 6GB GDDR6) using VS Code (with NVIDIA Nsight CUDA development framework integrated). Choosing such SoTA models would crash the VSCode in my native machine. I tried to fine-tune the lower parameter versions above-mentioned models for deployment, but they were too much for my machine to handle. Also, Google Colab (or Pro and Pro+) does not allow users to open another tab or browser to display any interactive window from the current notebook session. There are workarounds with third-party authenticators like ngrock, but that did not work for my project.
 </p>
 
 <p align="justify">
