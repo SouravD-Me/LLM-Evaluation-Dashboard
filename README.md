@@ -47,7 +47,7 @@ The evaluation is done on GLUE benchmark datasets: 𝗚𝗟𝗨𝗘, 𝗦𝗦�
 ### 🔶 Clone the repository:
 
 ```bash
-git clone https://github.com/Sourav-Das1996/llm_evaluation_dashboard.git
+git clone https://github.com/SouravD-Me/LLM-Evaluation-Dashboard.git
 ```
 
 ### 🔶 Change to the project directory:
