@@ -1,8 +1,6 @@
 # <p align="center"> <b>💻 LLM Evaluation Dashboard 📈</b> </p>
 
----
 <p align="center"> <img width="1500" img height="500" src="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard/blob/main/LLM%20Evaluation%20Dashboard.png"> </p> 
----
 <p align="center"> <em>🌟 An interactive dashboard for benchmarking and visualizing the performance of large language models across several datasets. 🌟</em> </p> 
 <p align="center"> <a href="https://github.com/Sourav-Das1996/llm_evaluation_dashboard/blob/main/LICENSE"> <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"> </a> 
     <a href="https://github.com/Sourav-Das1996/llm_evaluation_dashboard/pulls"> <img src="https://img.shields.io/github/issues-pr/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Pull Requests"> </a> 
