@@ -65,4 +65,4 @@ python app.py (LLM Evaluation - Main.ipynb)
 
 <p align="center"> This project is licensed under the MIT License. See the LICENSE file for more details. <\p>
 
-<p align="center"> ### Made with 🙏🏻 by Sourav Das • 2024 <\p>
+### <p align="center"> Made with 🙏🏻 by Sourav Das • 2024 <\p>
