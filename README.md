@@ -8,7 +8,14 @@
     <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard"> <img src="https://img.shields.io/github/stars/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Stars"> </a> 
     <a href="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard"> <img src="https://img.shields.io/github/forks/Sourav-Das1996/llm_evaluation_dashboard.svg" alt="Forks"> </a> </p> 
     
-<p align="center"> <a href="#key-features">Key Features</a> • <a href="#demo">Demo</a> • <a href="#installation">Installation</a> • <a href="#usage">Usage</a> • <a href="#contributing">Contributing</a> • <a href="#license">License</a> </p>
+<p align="center">
+    <a href="#key-features">Key Features</a> •
+    <a href="#demo">Demo</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#usage">Usage</a> •
+    <a href="#contributing">Contributing</a> •
+    <a href="#license">License</a>
+</p>
 
 ## 🟡 Key Features: ✨
 
