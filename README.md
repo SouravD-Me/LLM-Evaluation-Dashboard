@@ -20,10 +20,11 @@
 
 🔶 Why haven't I used the recent SoTA models like Llama-2, Mistral, MPT, Phi-2, XGLM, and others?
 
-    1. The entire dashboard is developed and run from my laptop (i7 12th Gen + 24 GB RAM + NVIDIA RTX 3060 - 6GB GDDR6) using VS Code (with NVIDIA Nsight CUDA development framework integrated). Choosing such SoTA models
+1. The entire dashboard is developed and run from my laptop (i7 12th Gen + 24 GB RAM + NVIDIA RTX 3060 - 6GB GDDR6) using VS Code (with NVIDIA Nsight CUDA development framework integrated). Choosing such SoTA models
     would crash the VSCode in my native machine. I tried to fine-tune the above-mentioned models for deployment, but they were too much for my machine to handle. Also, Google Colab (or Pro and Pro+) does not allow users to
     open another tab or browser to display any interactive window from the current notebook session. There are workarounds with third-party authenticators like ngrock, but that did not work for my project.
-    2. For the same reason, I could not benchmark the models on standard metrics for LLM evaluations like BLEU, METEOR, ROUGE, BERTScore, or incorporate RAG-based mechanisms or fine-tuning.
+   
+3. For the same reason, I could not benchmark the models on standard metrics for LLM evaluations like BLEU, METEOR, ROUGE, BERTScore, or incorporate RAG-based mechanisms or fine-tuning.
 
 ## 🟡 Demo: 🎥
 <p align="center"> <img src="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard/blob/main/LLM%20Evaluation%20-%20MiniDemo.gif" alt="Demo GIF"> </p>
