@@ -17,4 +17,4 @@
     🌐 Cross-platform compatibility with Dash
 
 Demo 🎥
-<p align="center"> <img src="https://raw.githubusercontent.com/Sourav-Das1996/llm_evaluation_dashboard/main/assets/demo.gif" alt="Demo GIF"> </p>
+<p align="center"> <img src="https://github.com/SouravD-Me/LLM-Evaluation-Dashboard/blob/main/LLM%20Evaluation%20-%20MiniDemo.gif" alt="Demo GIF"> </p>
