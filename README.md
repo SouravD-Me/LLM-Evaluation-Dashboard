@@ -26,14 +26,14 @@ The evaluation is done on GLUE benchmark datasets: 𝗚𝗟𝗨𝗘, 𝗦𝗦�
 
 ## 🟡 Limitations: ❗
 
-🔶 Why haven't I used the recent SoTA models like Llama-2, Mistral, MPT, Phi-2, XGLM, and others?
+🔶 Why haven't I used more recent SoTA models like Llama-2, Mistral, MPT, Phi-2, XGLM, and others?
 
 <p align="justify">
-1. The entire dashboard is developed and run from my laptop (i7 12th Gen + 24 GB RAM + NVIDIA RTX 3060 - 6GB GDDR6) using VS Code (with NVIDIA Nsight CUDA development framework integrated). Choosing such SoTA models would crash the VSCode in my native machine. I tried to fine-tune the lower parameter versions above-mentioned models for deployment, but they were too much for my machine to handle. Also, Google Colab (or Pro and Pro+) does not allow users to open another tab or browser to display any interactive window from the current notebook session. There are workarounds with third-party authenticators like ngrock, but that did not work for my project.
+<b>1.</b> The entire dashboard is developed and run from my laptop (i7 12th Gen + 24 GB RAM + NVIDIA RTX 3060 - 6GB GDDR6) using VS Code (with NVIDIA Nsight CUDA development framework integrated). Choosing such SoTA models would crash the VSCode in my native machine. I tried to fine-tune the lower parameter versions above-mentioned models for deployment, but they were too much for my machine to handle. Also, Google Colab (or Pro and Pro+) does not allow users to open another tab or browser to display any interactive window from the current notebook session. There are workarounds with third-party authenticators like ngrock, but that did not work for my project.
 </p>
 
 <p align="justify">
-2. For the same reason, I could not benchmark the models on standard metrics for LLM evaluations like BLEU, METEOR, ROUGE, BERTScore, or incorporate RAG-based mechanisms or fine-tuning.
+<b>2.</b> For the same reason, I could not benchmark the models on standard metrics for LLM evaluations like BLEU, METEOR, ROUGE, BERTScore, or incorporate RAG-based mechanisms or fine-tuning.
 </p>
 
 ## 🟡 Demo: 🎥
@@ -82,8 +82,10 @@ python app.py (LLM Evaluation - Main.ipynb)
 
 ## 🟡 License: ⚖️
 
-<p align="center"> This project is licensed under MIT. See the LICENSE file for more details. <\p>
+<br>
+
+<p align="center"> This project is licensed under MIT. See the LICENSE file for more details. </p>
 
 <br>
 
-### <p align="center"> Made with 🙏🏻 by Sourav Das • 2024 <\p>
+### <p align="center"> Made with 🙏🏻 by Sourav Das • 2024 </p>
